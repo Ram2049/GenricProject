@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: GenricMLProject
+Version: 0.0.2
+Author: Ram
+Author-email: ramsparttakas23@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
+Requires-Dist: matplotlib
+Requires-Dist: xgboost
+Requires-Dist: catboost
+Requires-Dist: dill
+Requires-Dist: scikit-learn
+Requires-Dist: flask
